@@ -1,6 +1,6 @@
 # 10M_Movie_Project
 
-## Acorn Middle Project - 10M_Movie
+### Acorn Middle Project - 10M_Movie (https://github.com/zarnits/10M_Movie)
 
 ### 천만 영화를 찍고 싶다면 
 ### 지향해야 할 사항과 지양해야할 사항 분석<br/><br/>
